@@ -1,0 +1,12 @@
+.homepage{ 
+    display: flex;
+}
+
+.homepage__nav {
+    flex: 0.18;
+    border-right: 1px solid rgba(128, 128, 128, 0.288);
+    
+}
+.homepage__timeline {
+    flex: 0.8
+}
